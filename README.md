@@ -22,6 +22,7 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 
 6.)Usa el botón “Limpiar tablero” para reiniciar la interfaz.
 
+
 -Características de la interfaz
 
 *Tablero 8x8 con colores tradicionales.
@@ -37,6 +38,7 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 *Fondo gris oscuro con texto blanco cuando juegan las negras.
 
 *Diseño adaptable al tamaño de la ventana.
+
 
 -Lenguaje usado:
 Lenguaje de programación: Java 17
