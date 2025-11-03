@@ -38,4 +38,12 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 
 *Diseño adaptable al tamaño de la ventana.
 
+-Lenguaje usado:
+Lenguaje de programación: Java 17
+
+Librería gráfica: Swing
+
+Paradigma: Programación orientada a objetos
+
+Arquitectura: Modelo–Vista–Controlador (MVC)
 
