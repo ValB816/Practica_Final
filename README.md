@@ -49,3 +49,8 @@ Paradigma: Programación orientada a objetos
 
 Arquitectura: Modelo–Vista–Controlador (MVC)
 
+
+Realizado por:
+-Valentina Barbosa Quilindo
+- Nash Diaz 
+
